@@ -1,5 +1,5 @@
 - Hi, I’m Asif Zubayer
-- I’m interested in Web Dev, Automation and ML
+- I’m interested in Web Dev, Automation and Penetration Testing
 - I’m currently learning Web Dev and Automation using Python
 - I’m planning to build a tech-based startup soon ... 
 - If you want to contact me, mail me at: asifpalak@gmail.com
