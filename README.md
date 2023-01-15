@@ -1,8 +1,8 @@
 # Hi, I'm Asif Zubayer 
 ## I'm a Student, Developer, and a Content Writer!!
 
-### 💻 I’m interested in Web Dev, Automation and Penetration Testing
-### 🌱 I’m currently learning Web Dev and Automation using Python
+### 💻 I’m interested in AI and ML
+### 🌱 I’m currently learning Web Dev and Computer Vision
 ### 🏗️ I’m planning to build a tech-based startup soon ... 
 
 <br />
