@@ -1,5 +1,5 @@
 # Hi, I'm Asif Zubayer 
-## I'm a Student, Developer, and a Content Writer!!
+## I'm a Student, Developer, Social Worker and a Tutor!!
 
 ### 💻 I’m interested in AI and ML
 ### 🌱 I’m currently learning Web Dev and Computer Vision
