@@ -1,8 +1,8 @@
 # ~ Hi, I'm Asif Zubayer ~
 ## I'm a Student, Developer, Social Worker and a Tutor!!
 
-### 💻 I’m interested in AI and ML
-### 🌱 I’m currently learning Web Dev and Computer Vision
+### 💻 I’m currently learning AI and DL
+### 🌱 I’m currently learning MERN
 ### 🏗️ I’m planning to build a tech-based startup soon ... 
 
 <br />
