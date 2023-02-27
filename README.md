@@ -1,5 +1,5 @@
 # ~ Hi, I'm Asif Zubayer ~
-## I'm a Student, Developer, Social Worker and a Tutor!!
+## I'm a Student, Developer, Social Worker and a Tutor!
 
 ### 💻 I’m currently learning AI and DL
 ### 🌱 I’m currently learning MERN
