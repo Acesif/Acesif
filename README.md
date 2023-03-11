@@ -1,9 +1,9 @@
 # ~ Hi, I'm Asif Zubayer ~
 ## I'm a Student, Developer, Social Worker and a Tutor!
 
-### 💻 I’m currently learning AI and DL
-### 🌱 I’m currently learning MERN
-### 🏗️ I’m planning to build a tech-based startup soon ... 
+### 💻 I’m currently doing my thesis on Deep Learning 
+### 🌱 I’m currently learning MERN Stack Web Development 
+### 🏗️ I’m enthusiastic about entrepreneurship and startups 
 
 <br />
 
@@ -37,6 +37,6 @@
 <br />
 
 ### GitHub Stats
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=acesif&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img align="left" alt="Asif's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=acesif&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 
