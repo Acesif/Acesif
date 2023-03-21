@@ -1,10 +1,11 @@
 # ~ Hi, I'm Asif Zubayer ~
-## I'm an Undergraduate Student, Web Developer, Social Worker and a Teaching Assistant!
+## I'm a CompSci Undergrad Student, Front-end Web Developer, Social Worker and a Teaching Assistant!
 
 ### 💻 Doing my thesis on Deep Learning 
 ### 🌱 Learning MERN Stack Web Development 
 ### 🏗️ Enthusiastic about entrepreneurship and startups 
 ### 🎉 Contributing to Open-Source Projects
+### 🛰️ [Working in the Software Dev Team for NASA GLEE 2023](https://www.glee2023.org/)
 
 <br />
 
