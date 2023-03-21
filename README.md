@@ -1,9 +1,10 @@
 # ~ Hi, I'm Asif Zubayer ~
 ## I'm an Undergraduate Student, Web Developer, Social Worker and a Teaching Assistant!
 
-### 💻 I’m currently doing my thesis on Deep Learning 
-### 🌱 I’m currently learning MERN Stack Web Development 
-### 🏗️ I’m enthusiastic about entrepreneurship and startups 
+### 💻 Doing my thesis on Deep Learning 
+### 🌱 Learning MERN Stack Web Development 
+### 🏗️ Enthusiastic about entrepreneurship and startups 
+### 🎉 Contributing to Open-Source Projects
 
 <br />
 
