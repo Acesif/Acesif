@@ -1,5 +1,5 @@
 # ~ Hi, I'm Asif Zubayer ~
-## I'm a CompSci Undergrad Student, Front-end Web Developer, [Social Worker](https://reflectiveteens.com/) and a Teaching Assistant!
+## I'm a CompSci Undergrad Student, Front-end Web Developer, [Social Worker](https://reflectiveteens.com/)!
 
 ### 💻 Doing my thesis on Deep Learning 
 ### 🌱 Learning MERN Stack Web Development 
