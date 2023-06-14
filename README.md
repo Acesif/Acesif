@@ -5,7 +5,7 @@
 ### 🌱 Learning MERN Stack Web Development 
 ### 🏗️ Enthusiastic about entrepreneurship and startups 
 ### 🎉 Contributing to Open-Source Projects
-### 🛰️ [Working in the Software Dev Team for NASA GLEE 2023](https://www.glee2023.org/)
+### 🛰️ [Working in the Software Dev Team for NASA GLEE Bangladesh 2023](https://www.glee2023.org/)
 
 <br />
 
