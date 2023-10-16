@@ -1,11 +1,9 @@
 # ~ Hi, I'm Asıf Zubayer ~
-## I'm a CompSci Undergrad Student, Front-end Web Developer, [Social Worker](https://reflectiveteens.com/)!
+## I'm a CompSci Undergrad Student!
 
 ### 💻 Doing my thesis on Deep Learning 
-### 🌱 Learning MERN Stack Web Development 
-### 🏗️ Enthusiastic about entrepreneurship and startups 
+### 🌱 Learning MERN Stack Web Development
 ### 🎉 Contributing to Open-Source Projects
-### 🛰️ [Working in the Software Dev Team for NASA GLEE Bangladesh 2023](https://www.glee2023.org/)
 
 <br />
 
