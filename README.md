@@ -1,4 +1,4 @@
-# ~ Hi, I'm Asıf Zubayer ~
+# ~ Hi, I'm Asif Zubayer ~
 ## I'm a CompSci Undergrad Student!
 
 ### 💻 Doing my thesis on Deep Learning 
