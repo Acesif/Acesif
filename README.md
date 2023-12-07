@@ -51,7 +51,6 @@
 <img align="center" alt="My Activity Graph" src="https://github-readme-stats.vercel.app/api?username=acesif&count_private=true&show_icons=true&theme=shadow_red" /> 
 <br><br>
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=acesif&theme=shadow_red&count_private=true" />  
-<br><br> <img src = "https://github-readme-activity-graph.cyclic.app/graph?username=acesif&theme=shadow_red&area=true&hide_border=true&count_private=true" /> 
 </div>
   
 <h2>Visitor Count</h2>
