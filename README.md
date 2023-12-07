@@ -43,6 +43,21 @@
 <br />
 
 ### GitHub Stats
-<img align="left" alt="Asif's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=acesif&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<h2>Github Stats</h2>
+<div align="center">
+<br>
+<img alt="Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acesif&theme=shadow_red&langs_count=50&layout=compact&count_private=true&hide_progress=true" />
+<br><br>
+<img align="center" alt="My Activity Graph" src="https://github-readme-stats.vercel.app/api?username=acesif&count_private=true&show_icons=true&theme=shadow_red" /> 
+<br><br>
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=acesif&theme=shadow_red&count_private=true" />  
+<br><br> <img src = "https://github-readme-activity-graph.cyclic.app/graph?username=acesif&theme=shadow_red&area=true&hide_border=true&count_private=true" /> 
+</div>
+  
+<h2>Visitor Count</h2>
+<div align="center">
+<br>
+<img align="center" src="https://profile-counter.glitch.me/{acesif}/count.svg" />
+<br></div>
 
 
