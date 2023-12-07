@@ -42,7 +42,6 @@
 ---
 <br />
 
-### GitHub Stats
 <h2>Github Stats</h2>
 <div align="center">
 <br>
