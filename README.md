@@ -1,9 +1,12 @@
-# ~ Hi, I'm Asif Zubayer ~
-## I'm a CompSci Undergrad Student!
+# $whoami 
+    Asif Zubayer
+## $man education
+    Computer Science Undergrad Senior
 
-### 💻 Doing my thesis on Deep Learning 
-### 🌱 Learning MERN Stack Web Development
-### 🎉 Contributing to Open-Source Projects
+### $ls projects
+    Doing my thesis on Deep Learning 
+    Learning MERN Stack Web Development
+    Contributing to Open-Source Projects
 
 <br />
 
