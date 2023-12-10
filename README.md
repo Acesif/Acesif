@@ -3,10 +3,11 @@
 ## $man education
     Computer Science Undergrad Senior
 
-### $ls projects
-    Doing my thesis on Deep Learning 
-    Learning MERN Stack Web Development
-    Contributing to Open-Source Projects
+### $ls skillset
+    - Thesis on Image Recognition and Classification
+    - Mini-crowd Researcher at UIUC Urbana Champagne
+    - Full Stack Web Developer (MERN)
+    - Contributing to Open-Source Projects
 
 <br />
 
