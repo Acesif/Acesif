@@ -22,7 +22,6 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/asif-zubayer-palak/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/asif-zubayer-palak/#gh-dark-mode-only)
 ## [Contact Me](mailto:asifpalak@gmail.com)
-<br />
 
 ### Languages and Tools:
 
