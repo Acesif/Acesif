@@ -3,7 +3,8 @@
 ## $man education
     Computer Science Undergrad Senior
 
-### $ls skillset
+### $ls Background
+    - bNext Intern at [bKash](https://www.bkash.com/)
     - Thesis on Image Recognition and Classification
     - Mini-crowd Researcher at UIUC Urbana Champagne
     - Full Stack Web Developer (MERN)
