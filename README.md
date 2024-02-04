@@ -1,7 +1,7 @@
 # $whoami 
     Asif Zubayer
 ## $man education
-    Computer Science Undergrad Senior
+    Computer Science Undergraduate
 
 ### $ls Background
     - bNext Intern at bKash
