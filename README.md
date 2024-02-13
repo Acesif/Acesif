@@ -4,7 +4,6 @@
     Computer Science Undergraduate
 
 ### $ls Background
-    - bNext Intern at bKash
     - Thesis on Image Recognition and Classification
     - Mini-crowd Researcher at UIUC Urbana Champagne
     - Full Stack Web Developer (MERN)
