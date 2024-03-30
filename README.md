@@ -1,12 +1,11 @@
 # $whoami 
     Asif Zubayer
 ## $man education
-    Computer Science Undergraduate
+    Computer Science Graduate
 
 ### $ls Background
     - Thesis on Image Recognition and Classification
-    - Mini-crowd Researcher at UIUC Urbana Champagne
-    - Full Stack Web Developer (MERN)
+    - Backend Developer
     - Contributing to Open-Source Projects
 
 <br />
