@@ -32,6 +32,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="ReactJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Spring" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg"/>
 
 <br />
