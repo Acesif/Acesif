@@ -1,16 +1,14 @@
-# $whoami 
+# Who Am I 
     Asif Zubayer
-## $man education
-    Computer Science Graduate
+## Education
+    Bachelors of Science in Computer Science - BRAC University
 
-### $ls Background
+### Experience
     - Thesis on Image Recognition and Classification
-    - Backend Developer
+    - Backend Developer (Java/Spring Boot)
     - Contributing to Open-Source Projects
 
 <br />
-
-[![An image of @acesif's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/acesif)](https://holopin.io/@acesif)
 
 ### Connect with me:
 <br />
@@ -32,10 +30,8 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="ReactJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg"/>
 
 <br />
