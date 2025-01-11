@@ -1,23 +1,25 @@
 # Who Am I 
-    Asif Zubayer
+    Asif Zubayer Palak
 ## Education
     Bachelors of Science in Computer Science - BRAC University
 
-### Experience
-    - Thesis on Image Recognition and Classification
-    - Backend Developer (Java/Spring Boot)
-    - Contributing to Open-Source Projects
+### Industry Experience
+    - Junior Software Engineer @ Karooth IT BD (Spring Boot + Angular)
+    - Software Engineer Intern @ bKash Ltd (Spring Boot)
+
+### Research Experience
+    - Research Interests: AI4SE, LLMs and Code Generation
+    - Doodle2Clothing: a clothing design recognition and searching model from a doodle drawing [INTCEC 2024]
+    - GlueTest: Testing Code Translation via Language Interoperability [ICSME 2024]
+    - 
 
 <br />
 
 ### Connect with me:
 <br />
 
-[![website](./img/twitter-light.svg)](https://twitter.com/Asxceif#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Asxceif#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/asif-zubayer-palak/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/asif-zubayer-palak/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/acesif/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/acesif/#gh-dark-mode-only)
 ## [Contact Me](mailto:asifpalak@gmail.com)
 
 ### Languages and Tools:
