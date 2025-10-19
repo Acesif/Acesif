@@ -4,7 +4,8 @@
     Bachelors of Science in Computer Science - BRAC University
 
 ### Industry Experience
-    - Junior Software Engineer @ Karooth IT BD (Spring Boot + Angular)
+    - Software Engineer @ Sazim
+    - Junior Software Engineer @ Karooth IT BD (Spring Boot)
     - Software Engineer Intern @ bKash Ltd (Spring Boot)
 
 ### Research Experience
