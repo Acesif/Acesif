@@ -9,7 +9,7 @@
     - Software Engineer Intern @ bKash Ltd (Spring Boot)
 
 ### Research Experience
-    - Research Interests: AI4SE, LLMs and Code Generation
+    - Research Interests: AI4SE, AI4Neuro
     - Doodle2Clothing: a clothing design recognition and searching model from a doodle drawing [INTCEC 2024]
     - GlueTest: Testing Code Translation via Language Interoperability [ICSME 2024]
 
