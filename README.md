@@ -47,19 +47,31 @@
 ---
 <br />
 
-<h2>Github Stats</h2>
+<h2>GitHub Stats</h2>
+
 <div align="center">
-<br>
-<img alt="Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acesif&theme=shadow_red&langs_count=50&layout=compact&count_private=true&hide_progress=true" />
+
 <br><br>
-<img align="center" alt="My Activity Graph" src="https://github-readme-stats.vercel.app/api?username=acesif&count_private=true&show_icons=true&theme=shadow_red" /> 
-<br><br>
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=acesif&theme=shadow_red&hide_border=true"
+alt="GitHub Streak"
+/>
+
 </div>
-  
+
+<br />
+
 <h2>Visitor Count</h2>
+
 <div align="center">
-<br>
-<img align="center" src="https://profile-counter.glitch.me/{acesif}/count.svg" />
-<br></div>
+
+<img
+src="https://komarev.com/ghpvc/?username=acesif&label=Profile%20Views&color=red&style=flat"
+alt="Profile Views"
+/>
+
+</div>
+
 
 
