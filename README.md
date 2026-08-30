@@ -13,6 +13,8 @@
     - Doodle2Clothing: a clothing design recognition and searching model from a doodle drawing [INTCEC 2024]
     - GlueTest: Testing Code Translation via Language Interoperability [ICSME 2024]
 
+#### My actual projects are in: [AcesifLabs](https://github.com/AcesifLabs)
+
 <br />
 
 ### Connect with me:
